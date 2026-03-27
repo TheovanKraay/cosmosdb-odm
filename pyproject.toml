@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "cosmos-odm"
 dynamic = ["version"]
-description = "Production-grade Azure Cosmos DB Core (SQL) ODM with native vector and full-text search"
+description = "Azure Cosmos DB Core (SQL) ODM with native vector and full-text search"
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [

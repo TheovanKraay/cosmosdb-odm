@@ -1,6 +1,6 @@
 # Cosmos ODM
 
-A production-grade, async-first **Azure Cosmos DB NoSQL ODM** for Python with native **vector search**, **full-text search**, and **hybrid search** capabilities built directly into Azure Cosmos DB for NoSQL.
+An async-first **Azure Cosmos DB NoSQL ODM** for Python with native **vector search**, **full-text search**, and **hybrid search** capabilities built directly into Azure Cosmos DB for NoSQL.
 
 > **⚠️ Experimental Package**: This package is currently experimental and has not yet been published to PyPI. See [Installation](#installation) section for local testing instructions.
 

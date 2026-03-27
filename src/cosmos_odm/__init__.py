@@ -1,6 +1,6 @@
-"""Cosmos ODM: Production-grade Azure Cosmos DB Core (SQL) ODM.
+"""Cosmos ODM: Azure Cosmos DB Core (SQL) ODM.
 
-A modern, async-first ODM for Azure Cosmos DB with native vector and full-text search support.
+An async-first ODM for Azure Cosmos DB with native vector and full-text search support.
 """
 
 __version__ = "0.1.0"
